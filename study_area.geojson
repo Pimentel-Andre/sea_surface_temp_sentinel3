@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geojson_aquicultura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -50.0628800303096, -21.181697812853134 ], [ -50.027733135425109, -21.181518948248122 ], [ -50.026719569330055, -21.209362205094699 ], [ -50.062611733402086, -21.208944854349674 ], [ -50.0628800303096, -21.181697812853134 ] ] ] ] } }
+]
+}
